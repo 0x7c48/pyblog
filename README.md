@@ -27,3 +27,10 @@ https://github.com/myint/autoflake
 https://github.com/hhatto/autopep8
 https://github.com/PyCQA/pyflakes
 https://github.com/google/yapf
+
+
+# SDLC
+
+At this time it looks like this =)
+
+![PyBlog](https://github.com/0x7c48/pyblog/resource/screen.png)
