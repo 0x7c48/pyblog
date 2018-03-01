@@ -33,4 +33,4 @@ https://github.com/google/yapf
 
 At this time it looks like this =)
 
-![PyBlog](https://github.com/0x7c48/pyblog/resource/screen.png)
+![PyBlog](https://github.com/0x7c48/pyblog/blob/master/resource/screen.png)
