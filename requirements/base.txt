@@ -2,7 +2,7 @@ Pillow==4.3.0
 psycopg2==2.6.2
 python-memcached==1.58
 Jinja2==2.9.5
-Django==2.0
+Django>=2.0.10
 
 easy-thumbnails==2.5
 django-image-cropping==1.0.4
