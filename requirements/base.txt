@@ -1,4 +1,4 @@
-Pillow==4.3.0
+Pillow==6.2.0
 psycopg2==2.6.2
 python-memcached==1.58
 Jinja2==2.9.5
